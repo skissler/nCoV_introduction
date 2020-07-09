@@ -13,6 +13,8 @@ __figuremaker.R__ reproduces Figure 2 in the manuscript and demonstrates how to 
 
 __invasion_rates.R__ is used within figuremaker.R for the ode simulation
 
+__invasion_ode_parallel.R__ is the code for the Latin Hypercube sampling procedure
+
 __license.txt__ contains the GNU Version 3 license for use and redistribution of this code.
 
 __nrevssCDC_ILI.csv__ contains the NREVSS data on the human betacoronaviruses, used in figuremaker.R
